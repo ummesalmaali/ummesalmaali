@@ -1,7 +1,7 @@
   Hey there, I am Umme Salma Ali 👋😍😍
 
 
-- 🔭 I’m currently working on SF Digital.🤷‍
+- 🔭 I’m currently working as a Web Developer.🤷‍
 - 🌱 I’m currently learning anything and everything about technology.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with dynamic projects.
