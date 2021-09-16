@@ -8,5 +8,5 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: Twitter - @UmmeSalmaAli2
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Sticking into the problems untill I get the soluton.
+- ⚡ Fun fact: Sticking into the problems untill I get the solution.
 
