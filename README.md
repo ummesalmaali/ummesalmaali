@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/ummesalmaali2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ummesalmaali2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ummesalmaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ummesalmaali" height="30" width="40" /></a>
-<a href="https://fb.com/ummesalmaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ummesalmaali" height="30" width="40" /></a>
-<a href="https://instagram.com/ummesalmaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ummesalmaali" height="30" width="40" /></a>
+<a href="https://fb.com/imummesalma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ummesalmaali" height="30" width="40" /></a>
+<a href="https://instagram.com/ummesalmaalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ummesalmaali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
