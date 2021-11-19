@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React,Express**
+- 🌱 I’m currently learning **Node.js,Express.js**
 
-- 👨‍💻 All of my projects are available at [ummesalmaali.com](ummesalmaali.com)
+- 👨‍💻 All of my projects are available at [ummesalmaali.com](https://ummesalma.dev)
 
 - 💬 Ask me about **JavaScript,React**
 
